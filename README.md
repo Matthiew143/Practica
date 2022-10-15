@@ -1,2 +1,0 @@
-# Practica
-Practicas Sherpa
